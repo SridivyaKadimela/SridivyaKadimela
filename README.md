@@ -15,7 +15,7 @@ Welcome to my GitHub profile.
 
 📄 Know more about my work: [Resume](#)
 
-📥 Reach out to me: sridivyak68@email.com 
+📥 Reach out to me: sridivyak68@gmail.com 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/skadimel/)
