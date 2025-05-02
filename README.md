@@ -5,8 +5,8 @@
 🔹 Skilled in SQL, Python, Tableau, Excel, and Azure  
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-link/)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/skadimel/)
+🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/sridivya.kadimela/vizzes)
 
 ## 💼 Tools and Technologies:
 - **Languages:** SQL, Python  
