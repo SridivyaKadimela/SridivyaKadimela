@@ -2,12 +2,24 @@
 Welcome to my GitHub profile.
 
 # 💫 About Me:
-🔹 Data Analyst with 2+ years of experience in the IT industry  
-🔹 Interested in Healthcare Analytics and Cloud-based solutions  
-🔹 Skilled in SQL, Python, Tableau, Excel, and Azure  
+
+👩‍💻 Data Analyst with 2+ years of experience in the IT industry  
+
+🌐 Passionate about healthcare analytics | Skilled in SQL, Python, Tableau, Excel, Power BI, and Azure  
+
+🎓 Google Certified Data Engineer  
+
+🛠️ Experienced in data pipeline automation with Apache Airflow and data storytelling with Tableau  
+
+📊 Enthusiastic about data visualization, healthcare trends, and turning raw data into insights  
+
+📄 Know more about my work: [Resume](#)
+
+📥 Reach out to me: sridivyak68@email.com 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/skadimel/)
+
 🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/sridivya.kadimela/vizzes)
 
 ## 💼 Tools and Technologies:
