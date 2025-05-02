@@ -1,4 +1,6 @@
-# Sridivya-Kadimela
+# 👋 Hello! I'm Sridivya Kadimela
+Welcome to my GitHub profile.
+
 # 💫 About Me:
 🔹 Data Analyst with 2+ years of experience in the IT industry  
 🔹 Interested in Healthcare Analytics and Cloud-based solutions  
