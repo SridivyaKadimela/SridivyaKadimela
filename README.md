@@ -24,8 +24,8 @@ Welcome to my GitHub profile.
 
 ## 💼 Tools and Technologies:
 - **Languages:** SQL, Python  
-- **Data Viz:** Tableau, Power BI  
-- **Cloud:** Microsoft Azure  
+- **Data Viz:** Tableau, Power BI, Excel 
+- **Cloud:** Microsoft Azure, Google Cloud 
 - **Workflow:** Apache Airflow, Git  
 
 ## 📊 Projects:
