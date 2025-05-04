@@ -20,7 +20,7 @@ Welcome to my GitHub profile.
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/skadimel/)
 
-[![Tableau](https://public.tableau.com/app/profile/sridivya.kadimela/vizzes)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-blue)](https://public.tableau.com/app/profile/sridivya.kadimela/vizzes)
 
 ## 💼 Tools and Technologies:
 - **Languages:** SQL, Python  
