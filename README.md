@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 
 👩‍💻 Data Analyst with 2+ years of experience in the IT industry  
 
-🌐 Passionate about healthcare analytics | Skilled in SQL, Python, Tableau, Excel, Power BI, and Azure  
+🌐 Passionate about healthcare analytics | Skilled in SQL, Python, Tableau, Excel and Power BI 
 
 🎓 Google Certified Data Engineer  
 
